@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3c55319f0098214288b6dcdb4699b04
+timeCreated: 1512333608
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rabbitYellowPrefab: {instanceID: 0}
+  - point: {instanceID: 0}
+  - textCountDown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
